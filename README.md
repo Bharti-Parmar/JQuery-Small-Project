@@ -1,2 +1,2 @@
 # JQuery-Small-Project
-Using JQuery fir some common task.
+Using JQuery for some common task.
